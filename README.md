@@ -3,7 +3,7 @@
 ## 基本方針はOS、ブラウザ共に公式サポートされているもの
 
 ## 対応OS
-* Windows Vista, 7, 8.1, 10
+* Windows 7, 8.1, 10
 * macOS 10.10, 10.11, 10.12
 * iOS 8, 9, 10
 * Android 4.4, 5.0, 5.1, 6.0, 7.0, 7.1
@@ -14,7 +14,7 @@
 * Firefox 最新版
 
 ## Windows
-* IE 9, 10, 11
+* IE 11
 * Edge 最新版
 * Chrome 最新版
 * Firefox 最新版
