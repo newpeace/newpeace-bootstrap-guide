@@ -3,13 +3,26 @@
 ## 基本方針はOS、ブラウザ共に公式サポートされているもの
 
 ## 対応OS
-* Windows 7, 8.1, 10
-* macOS 10.10, 10.11, 10.12
-* iOS 8, 9, 10
-* Android 4.4, 5.0, 5.1, 6.0, 7.0, 7.1
+* Windows 7
+* Windows 8.1
+* Windows 10
+* OS X Yosemite 10.10
+* OS X El Capitan 10.11
+* macOS Sierra 10.12
+* iOS 8
+* iOS 9
+* iOS 10
+* Android 4.4
+* Android 5.0
+* Android 5.1
+* Android 6.0
+* Android 7.0
+* Android 7.1
 
 ## macOS
-* Safari 8, 9, 10
+* Safari 8
+* Safari 9
+* Safari 10
 * Chrome 最新版
 * Firefox 最新版
 
@@ -20,7 +33,9 @@
 * Firefox 最新版
 
 ## iOS
-* Safari 8, 9, 10
+* Safari 8
+* Safari 9
+* Safari 10
 
 ## Android
 * Chrome 最新版
