@@ -4,12 +4,12 @@
 
 ## 対応OS
 * Windows Vista, 7, 8.1, 10
-* macOS 10.9, 10.10, 10.11, 10.12
-* iOS 7, 8, 9, 10
-* Android 4.4, 5.0, 5.1, 6.0, 7.0
+* macOS 10.10, 10.11, 10.12
+* iOS 8, 9, 10
+* Android 4.4, 5.0, 5.1, 6.0, 7.0, 7.1
 
 ## macOS
-* Safari 7, 8, 9, 10
+* Safari 8, 9, 10
 * Chrome 最新版
 * Firefox 最新版
 
@@ -20,7 +20,7 @@
 * Firefox 最新版
 
 ## iOS
-* Safari 7, 8, 9, 10
+* Safari 8, 9, 10
 
 ## Android
 * Chrome 最新版
