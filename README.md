@@ -19,25 +19,25 @@
 * Android 7.0
 * Android 7.1
 
-## macOS
+## macOSで対応すべきブラウザー
 * Safari 8
 * Safari 9
 * Safari 10
 * Chrome 最新版
 * Firefox 最新版
 
-## Windows
+## Windowsで対応すべきブラウザー
 * IE 11
 * Edge 最新版
 * Chrome 最新版
 * Firefox 最新版
 
-## iOS
+## iOSで対応すべきブラウザー
 * Safari 8
 * Safari 9
 * Safari 10
 
-## Android
+## Androidで対応すべきブラウザー
 * Chrome 最新版
 * 標準ブラウザ（例外的にAndroid 4.0以降に対応）
 
