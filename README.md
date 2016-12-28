@@ -20,9 +20,7 @@
 * Android 7.1
 
 ## macOSで対応すべきブラウザ
-* Safari 8
-* Safari 9
-* Safari 10
+* Safari 最新版
 * Chrome 最新版
 * Firefox 最新版
 
