@@ -9,7 +9,6 @@
 * OS X El Capitan 10.11
 * macOS Sierra 10.12
 * macOS High Sierra 10.13
-* iOS 9
 * iOS 10
 * iOS 11
 * Android 5.0
@@ -31,7 +30,6 @@
 * Firefox 最新版
 
 ## iOSで対応すべきブラウザ
-* Safari 9
 * Safari 10
 * Safari 11
 
