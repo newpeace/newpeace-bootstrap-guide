@@ -36,6 +36,8 @@
 ## Androidで対応すべきブラウザ
 * Chrome 最新版
 
+## 参考URL
+http://gs.statcounter.com/browser-market-share/mobile/worldwide/#monthly-201708-201808
 
 # コーディング要件（スタティックサイトの場合）
 
